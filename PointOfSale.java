@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PointOfSaleV2 {
+public class PointOfSale {
     static boolean isMenuDisplayed = false;
     static double total, payment, change;
     static List<String> orderList = new ArrayList<>();
