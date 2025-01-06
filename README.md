@@ -50,10 +50,10 @@ This ensures proper record-keeping for every transaction.
 ## Getting Started
 1. **Clone the repository to your local machine.**
    ```bash
-   git clone https://github.com/muyonii/point-of-sale-system.git
+   git clone https://github.com/muyonii/Point-of-Sale.git
 2. **Navigate to the directory where the Java file is located.**
    ```bash
-   cd point-of-sale-muyoni
+   cd Point-of-Sale-muyoni
 3. **Compile the Java program.**
    ```bash
    javac PointOfSaleV2.java
