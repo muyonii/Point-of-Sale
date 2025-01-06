@@ -56,10 +56,10 @@ This ensures proper record-keeping for every transaction.
    cd Point-of-Sale
 3. **Compile the Java program.**
    ```bash
-   javac PointOfSaleV2.java
+   javac PointOfSale.java
 4. **Run the program.**
    ```bash
-   java PointOfSaleV2
+   java PointOfSale
 
 ## Program Flow
 
