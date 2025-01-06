@@ -43,9 +43,7 @@ This is a Point of Sale (POS) system designed for Muyoni Eatery, allowing custom
 - Users can choose to restart the process after receiving the receipt or at any time during the interaction.
 
 ### File Logging
-After completing a transaction, all order details are saved into `log.txt` with the following format:
-
-This ensures proper record-keeping for every transaction.
+- After completing a transaction, all order details are saved into `log.txt`. This ensures proper record-keeping for every transaction.
 
 ## Getting Started
 1. **Clone the repository to your local machine.**
