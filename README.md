@@ -53,7 +53,7 @@ This ensures proper record-keeping for every transaction.
    git clone https://github.com/muyonii/Point-of-Sale.git
 2. **Navigate to the directory where the Java file is located.**
    ```bash
-   cd Point-of-Sale-muyoni
+   cd Point-of-Sale
 3. **Compile the Java program.**
    ```bash
    javac PointOfSaleV2.java
