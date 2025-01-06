@@ -96,35 +96,6 @@ This is a Point of Sale (POS) system designed for Muyoni Eatery, allowing custom
    - If the customer chooses "Y" or "y", the program restarts from the menu.
    - If the customer chooses "N" or "n", the program ends.
 
-## Notes
-
-- **Menu and Item Selection**: 
-  - The menu consists of 10 items with corresponding prices.
-  - Users can select an item by entering the number (1-10) associated with the item they want to order.
-  - The program adds the selected item's price to the total cost.
-
-- **Order Validation**: 
-  - If an invalid input is provided (a number outside the 1-10 range), the program prompts the user to try again.
-  
-- **Total and Payment Handling**: 
-  - The total amount is automatically calculated based on the user's selections.
-  - The program ensures the payment is sufficient. If not, the user is prompted to re-enter the payment.
-
-- **Receipt Generation**: 
-  - A formatted receipt is displayed, showing the orders, total amount, change, and a thank you message.
-  - A text file (`log.txt`) is created to log the transaction details for record-keeping.
-
-- **Restarting the Program**: 
-  - After the receipt is generated, the program asks if the user wants to restart the ordering process.
-  - If the user chooses "Y" or "y", the program restarts from the menu.
-  - If the user chooses "N" or "n", the program ends.
-
-- **Console Clearing**: 
-  - The console screen is cleared at the beginning of the program to provide a clean user interface.
-
-- **File Logging**: 
-  - A text file (`log.txt`) is generated and appended with the transaction details for each receipt generated, allowing the user to maintain a record of past transactions.
-
 ## Conclusion
 
 This program serves as a case study for **Computer Programming 1**, demonstrating the application of fundamental programming concepts such as conditional statements, loops, functions, and file handling. It provides a practical example of a point-of-sale system, simulating the ordering, payment, receipt generation, and logging of transactions in a restaurant setting.
